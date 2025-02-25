@@ -5,7 +5,6 @@ import java.util.Scanner;
 import me.ryanalloway.crud.model.TodoList;
 
 public class CRUD {
-	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		TodoList todoList = new TodoList();
